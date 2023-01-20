@@ -18,8 +18,8 @@ html {
 }
 .photo{
         border-radius: 25px;
-        width: 400px;
-        height: 100px;
+        width: 40px;
+        height: 10px;
       }
 
       .flex-container {
@@ -28,7 +28,8 @@ html {
     
     .flex-child {
         flex: 1;
-        border: 2px solid yellow;
+        background-color: #aea9a9;
+        border-radius: 25px;
     }  
     
     .flex-child:first-child {
