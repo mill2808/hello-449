@@ -2,15 +2,39 @@ html {
     background: #ffffff;
   }
   
-  * {
-    box-sizing: border-box;
-  }
+ .header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    margin: 0;
+    padding: 0px;
+    border-top: 10px solid #515050;
+    background: #fff;
+ }
   body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
     margin: 100px;
     padding: 100px;
-    border-top: 10px solid #3a3939;
+    
     background: #fff;
 }
+.photo{
+        border-radius: 25px;
+        width: 400px;
+        height: 100px;
+      }
+
+      .flex-container {
+        display: flex;
+    }
+    
+    .flex-child {
+        flex: 1;
+        border: 2px solid yellow;
+    }  
+    
+    .flex-child:first-child {
+        margin-right: 20px;
+    } 
+
+
   /* ****************************** Header image formatting ************************* */
   
