@@ -9,6 +9,11 @@ html {
     border-top: 10px solid #323030;
     background: #fff;
  }
+ img {
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+ }
   body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 100px;
