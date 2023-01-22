@@ -2,7 +2,7 @@ html {
     background: #ffffff;
   }
   
-.header img{
+.header .logo{
   float: left;
 }
 
