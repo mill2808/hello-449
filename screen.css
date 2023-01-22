@@ -4,13 +4,15 @@ html {
   
 .header img{
   float: left;
+  width: 20px;
+  height: auto;
 }
 
  .header h1 {
     position: relative;
     font-family: Arial, Helvetica, sans-serif;
     color: #413d3d;
-    padding: 0px;
+    padding: 20px;
     border-top: 10px solid #323030;
     background: #fff;
  }
