@@ -4,15 +4,15 @@ html {
   
  .header {
     font-family: Arial, Helvetica, sans-serif;
+    color: #323030;
     padding: 0px;
-    margin-top: 10px solid #515050;
+    border-top: 10px solid #323030;
     background: #fff;
  }
   body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 100px;
     padding: 100px;
-    
     background: #fff;
 }
 
