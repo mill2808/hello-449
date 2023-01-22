@@ -24,14 +24,14 @@ html {
 
       section {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
       }
 
       article {
-        background-color: #515050;
+        background-color: #e6e6e6;
         padding: 20px;
         margin: 20px;
-        border-radius: 5px;
+        border-radius: 10px;
       }
 
 
