@@ -4,6 +4,7 @@ html {
   
 .header .logo{
   float: left;
+  max-height: 45px;
 }
 
  .header h1 {
