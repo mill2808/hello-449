@@ -10,7 +10,9 @@ html {
     background: #fff;
  }
 
-
+img {
+  border-radius: 10px;
+}
 
   body {
     font-family: Arial, Helvetica, sans-serif;
