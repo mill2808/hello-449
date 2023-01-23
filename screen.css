@@ -10,8 +10,6 @@ html {
 
 .header .logo {
   float: left;
-  width: 20px;
-  height: auto;
 }
 
  .header h1 {
@@ -20,6 +18,13 @@ html {
     color: #413d3d;
     background: #fff;
  }
+
+img {
+  border-radius: 20px;
+  border-radius: 20px;
+  width: 100%;
+  height: auto;
+}
 
 
   body {
@@ -31,16 +36,6 @@ html {
   border-radius: 20px;
   margin-left: 20px;
   margin-right: 20px;
-  width: 100%;
-  height: auto;
-}
-
-.example {
-  border-radius: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
-  width: 100%;
-  height: auto;
 }
 
       section {
