@@ -5,6 +5,7 @@ html {
 .header .logo{
   float: left;
   background: #fff;
+  margin-left: 20px;
 }
 
  .header h1 {
