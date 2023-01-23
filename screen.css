@@ -3,19 +3,22 @@ html {
     border-top: 10px solid #323030;
   }
   
+.header {
+  margin-left: 20px;
+  padding-top: 50px;
+}
+
 .header .logo{
   float: left;
   background: #fff;
-  margin-left: 20px;
+
 }
 
  .header h1 {
     position: relative;
     font-family: Arial, Helvetica, sans-serif;
     color: #413d3d;
-    padding-top: 60px;
     background: #fff;
-    margin-left: 20px;
  }
 
 img {
