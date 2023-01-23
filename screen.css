@@ -8,10 +8,10 @@ html {
   padding-top: 50px;
 }
 
-.header .logo{
+.header .logo {
   float: left;
-  background: #fff;
-
+  width: 20px;
+  height: auto;
 }
 
  .header h1 {
@@ -21,9 +21,6 @@ html {
     background: #fff;
  }
 
-img {
-  border-radius: 20px;
-}
 
   body {
     font-family: Arial, Helvetica, sans-serif;
@@ -31,8 +28,19 @@ img {
 }
 
 .picture {
+  border-radius: 20px;
   margin-left: 20px;
   margin-right: 20px;
+  width: 100%;
+  height: auto;
+}
+
+.example {
+  border-radius: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 100%;
+  height: auto;
 }
 
       section {
