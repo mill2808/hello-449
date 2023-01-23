@@ -4,8 +4,8 @@ html {
   
 .header .logo{
   float: left;
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
   background: #fff;
 }
 
@@ -14,7 +14,6 @@ html {
     font-family: Arial, Helvetica, sans-serif;
     color: #413d3d;
     border-top: 10px solid #323030;
-    top: 18px;
     background: #fff;
  }
 
