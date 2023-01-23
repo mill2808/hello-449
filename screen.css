@@ -35,19 +35,19 @@ img {
         flex-direction: row;
         margin-top: 10%;
       }
+
+      article {
+        background-color: #e6e6e6;
+        margin: 20px;
+        padding: 10px;
+        border-radius: 10px;
+      }
       
 
       article:nth-of-type(1) {
         flex: 1
-        background-color: #e6e6e6;
-        margin: 20px;
-        padding: 20px;
-        border-radius: 10px;
       }
       article:nth-of-type(2) {
         flex: 1
-        background-color: #e6e6e6;
-        margin: 20px;
-        border-radius: 10px;
       }
 
